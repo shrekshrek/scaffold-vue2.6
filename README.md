@@ -1,0 +1,1 @@
+# scaffold-vue2.6
